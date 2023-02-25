@@ -10,6 +10,11 @@
 # Partie 2 : Les fondamentaux de Python
 
 - Variables, types de données et opérateurs
+- Liste (List)
+- Tuple (Tuple)
+- Set (Ensemble)
+- Dictionnaire (Dictionary)
+- Chaîne de caractères (String)
 - Structures de contrôle (if, for, while)
 - Fonctions et méthodes
 - Les fonctions lambda
