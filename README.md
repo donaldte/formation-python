@@ -4,7 +4,7 @@
 
 - Les bases de la programmation
 - Les avantages et les applications de Python
-- Installation de Python sur votre ordinateur
+- Installation de Python et Pycharm sur votre ordinateur
 - Configuration de l'environnement de développement
 
 # Partie 2 : Les fondamentaux de Python
