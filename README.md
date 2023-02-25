@@ -43,9 +43,9 @@ Partie 6 : Applications avec Python
 - Création d'une calculatrice
 - Création d'une jeux de quiz
 
-Partie 7 : Projets pratiques en Python
+Partie 7 : Projet pratique en Python
 
-Création d'un site web dynamique de vente de fruit avec Django
+- Création d'un site web dynamique de vente de fruit avec Django
 
 En suivant une formation vidéo complète sur Python qui couvre ces sujets, vous serez en mesure de créer des applications web et des projets pratiques en utilisant les fonctions et les librairies clés de Python.
 
