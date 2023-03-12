@@ -47,6 +47,8 @@
 
 - Création d'une calculatrice
 - Création d'une jeux de quiz
+- Implementation d'un serveur FTP 
+- Un gestionnaire de mot de passe
 
 # Partie 7 : Projet pratique en Python
 
