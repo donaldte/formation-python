@@ -43,12 +43,12 @@
 - Lecture et écriture de fichiers
 - Requestes SQL avec  sqlite3 
 
-Partie 6 : Applications avec Python
+# Partie 6 : Applications avec Python
 
 - Création d'une calculatrice
 - Création d'une jeux de quiz
 
-Partie 7 : Projet pratique en Python
+# Partie 7 : Projet pratique en Python
 
 - Création d'un site web dynamique de vente de fruit avec Django
 
